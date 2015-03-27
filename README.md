@@ -15,11 +15,20 @@ future versions. Comments are sparse and functional decomposition is nonexistent
 Also, the wordlist file must be in the same directory as the executable. What you 
 see is what you get.
 
+This program was written using Visual C# in Visual Studio 2013.
+
+----------------------------------------------------------------------------------
+
+# Requirements
+
+.NET Framework 4.5
+
 ----------------------------------------------------------------------------------
 
 # Change Log:
       27 March 2015
           Initial version.
+
 ----------------------------------------------------------------------------------
 
 Wordlist: Arnold G. Reinold (http://world.std.com/~reinhold/) (CC BY 3.0 US)
