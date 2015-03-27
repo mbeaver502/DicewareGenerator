@@ -20,6 +20,7 @@ see is what you get.
 # Change Log:
       27 March 2015
           Initial version.
+          NB: The initial version was written in about 2 hours as proof of concept.
 ----------------------------------------------------------------------------------
 
 Wordlist: Arnold G. Reinold (http://world.std.com/~reinhold/) (CC BY 3.0 US)
