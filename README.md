@@ -28,6 +28,7 @@ This program was written using Visual C# in Visual Studio 2013.
 # Change Log:
       27 March 2015
           Initial version.
+          NB: The initial version was written in about 2 hours as proof of concept.
 
 ----------------------------------------------------------------------------------
 
